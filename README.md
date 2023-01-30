@@ -29,7 +29,7 @@
 
 ## Использование для проверки
 
-1. https://github.com/AntonArlate/final_work_specialization_selection.git
+1. https://github.com/deforvvr/Final_Project.git
 2. см. [Diagram.jpg](Diagram.jpg) 
 3. Данный текст находится в Readme.md
 4. Скомпилировать C# код из файла [Program.cs](Program/Program.cs)  
